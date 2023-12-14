@@ -1,5 +1,5 @@
 {
-  "name": "goit-node-hw-01",
+  "name": "hw-node-js-01",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^3.0.2"
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "commander": "^11.1.0",
+    "nanoid": "^3.3.4"
   }
 }
